@@ -14,4 +14,4 @@ while a <= b:
     print('a =', a, '< b =', b)
     a += c
 else:
-    print('Наканец a =', a, '> b =', b)
+    print('Накoнец a =', a, '> b =', b)
